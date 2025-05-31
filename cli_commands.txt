@@ -1,0 +1,4 @@
+git status -> to check the status of you git repository
+git log  -> list of all changes
+git add -> add your changes to stagging are
+git commit -> to commit your changes
